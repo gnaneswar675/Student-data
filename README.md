@@ -4,7 +4,7 @@ This repository contains files and folders to help you understand the basic flow
 
 ## 🚀 Live Demo  
 Check out the deployed application here:  
-[🔗 Deploy Link](your_deploy_link_here)
+[🔗 Live Here](https://student-data-g1zc.onrender.com/)
 
 ## 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript 🎨  
